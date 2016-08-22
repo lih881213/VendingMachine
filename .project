@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>VendingMachine</name>
+=======
+	<name>Bank</name>
+>>>>>>> c29ce30ef48e74e4957a50b6d42d51235929633e
 	<comment></comment>
 	<projects>
 	</projects>
